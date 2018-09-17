@@ -1,0 +1,3 @@
+
+FIELD_SIZE = 5
+MAX_VAL = 3
